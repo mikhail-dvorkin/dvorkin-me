@@ -141,8 +141,8 @@
 				<version>2.2.0</version>
 				<configuration>
 					<projectId>GCLOUD_CONFIG</projectId>
-					<version>GCLOUD_CONFIG</version>
-<!--					<promote>false</promote>-->
+					<version>development</version>
+					<promote>false</promote>
 					<appEngineDirectory>./res</appEngineDirectory>
 					<artifact>${project.build.directory}/${project.build.finalName}-jar-with-dependencies.jar</artifact>
 				</configuration>
